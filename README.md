@@ -1,2 +1,0 @@
-# Calci
-techsoc task1
